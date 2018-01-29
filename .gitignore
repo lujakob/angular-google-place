@@ -45,6 +45,6 @@ Thumbs.db
 /doc/docs/
 
 # Package
-/package
+#/package
 
 yarn-error\.log
